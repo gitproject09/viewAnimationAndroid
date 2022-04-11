@@ -1,5 +1,3 @@
-# View Animations - Android
-
 # [View Animations - Android][published url]
 # Developer: [Sopan Ahmed][instructor url]
 
