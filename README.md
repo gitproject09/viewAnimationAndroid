@@ -9,22 +9,16 @@
 
 ### Attention
 
-`Bounce`			`Flash`			`Pulse`           `Ruberband`
-`Shake`           `Standup`			`Swing`           `Tada`
+`Bounce`			`Flash`			`Pulse`         `Ruberband`         `Shake`           `Standup`			`Swing`           `Tada`
 `Wave`            `Wobble`
 
 ### Bounce
 
-`InDown`           `InUp`             `InLeft`            
-`InRight`           `In`           	
+`InDown`           `InUp`             `InLeft`              `InRight`           `In`           	
 
 ### Fade
 
-`InDown`           `InUp`
-`InLeft`           `InRight`
-`OutDown`          `OutUp`
-`OutLeft`           `OutRight`
-`In`                `Out`
+`InDown`           `InUp`     `InLeft`           `InRight`    `OutDown`          `OutUp`    `OutLeft`           `OutRight`    `In`                `Out`
 
 ### Flip
 
@@ -32,22 +26,14 @@
 
 ### Rotate
 
-`InDownLeft`  `InDownRight`             `InUpLeft`       `InUpRight`              
-`OutDownLeft`   `OutDownRight`          `OutUpLeft`     `OutUpRight`  
-`In`           `Out`  
-
+`InDownLeft`  `InDownRight`             `InUpLeft`       `InUpRight`          `OutDownLeft`   `OutDownRight`          `OutUpLeft`     `OutUpRight`      `In`      `Out`  
 ### Slide
 
-`InDown`   	`InUp`		`InLeft`     `InRight`
-`OutDown`   `OutUp`		`OutLeft`	`OutRight`
+`InDown`   	`InUp`		`InLeft`     `InRight`    `OutDown`   `OutUp`		`OutLeft`	`OutRight`
 
 ### Zoom
 
-`InDown`	`InUp`
-`InLeft`    `InRight`          
-`OutDown` 	`OutUp`              
-`OutLeft` 	`OutRight`      
-`In`	`Out`
+`InDown`	`InUp`    `InLeft`    `InRight`        `OutDown` 	  `OutUp`        `OutLeft` 	`OutRight`        `In`	`Out`
 
 
 ------
